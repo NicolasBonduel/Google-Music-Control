@@ -1,0 +1,31 @@
+{
+  "name": "gmusiccontrol",
+  "title": "Google Music Control",
+  "id": "jid1-vyHmhTBD4BMxSw",
+  "description": "Control Google Music with Shortcuts!",
+  "author": "Nicolas Bonduel",
+  "license": "MPL 2.0",
+  "version": "0.2.3",
+  "icon": "",
+  "preferences": [{
+        "name": "play",
+        "title": "Play/Pause",
+        "description": "Shortcut for Play/Pause (valid values : shift, alt, meta, control, accel, pageup, pagedown, f1-f24, a-z, 0-9)",
+        "type": "string",
+        "value": "control-alt-a"
+    },
+    {
+        "name": "next",
+        "title": "Next",
+        "description": "Shortcut for Next (valid values : shift, alt, meta, control, accel, pageup, pagedown, f1-f24, a-z, 0-9)",
+        "type": "string",
+        "value": "control-alt-d"
+    },
+    {
+        "name": "previous",
+        "title": "Previous",
+        "description": "Shortcut for Previous (valid values : shift, alt, meta, control, accel, pageup, pagedown, f1-f24, a-z, 0-9)",
+        "type": "string",
+        "value": "control-alt-q"
+    }]
+}
