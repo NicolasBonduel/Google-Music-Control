@@ -1,12 +1,13 @@
 {
   "name": "gmusiccontrol",
   "title": "Google Music Control",
-  "id": "jid1-vyHmhTBD4BMxSw",
+  "id": "jid1-vyHmhTBD4BMxSw@jetpack",
   "description": "Control Google Music with Shortcuts!",
   "author": "Nicolas Bonduel",
   "license": "MPL 2.0",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "icon": "",
+  "main": "lib/main.js",
   "preferences": [{
         "name": "play",
         "title": "Play/Pause",
