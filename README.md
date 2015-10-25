@@ -14,5 +14,5 @@ Changelog 0.2.3
 
 Changelog 0.2.4
 
--> Updated after a Google Music's code change
--> Switched from CFX to JPM
+-> Updated after a Google Music's code change.  
+-> Switched from CFX to JPM.
