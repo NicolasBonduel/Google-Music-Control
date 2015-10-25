@@ -11,3 +11,8 @@ https://addons.mozilla.org/fr/firefox/addon/google-music-control/
 Changelog 0.2.3
 
 -> Now support the new Google Music's material design.
+
+Changelog 0.2.4
+
+-> Updated after a Google Music's code change
+-> Switched from CFX to JPM
