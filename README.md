@@ -1,3 +1,5 @@
+# Deprecated in favor of [google-music-hotkeys](https://github.com/lidel/google-music-hotkeys)
+
 # Google-Music-Control
 Control Google Music with Shortcuts!
 
